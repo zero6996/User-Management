@@ -8,11 +8,11 @@
 
 :ballot_box_with_check:：[项目链接](http://111.230.219.30/showUser/login.jsp)
 
+- 测试账号：`admin`；密码：`admin123`
 
 
 
-
-## 简单功能
+## :page_with_curl:简单功能
 
 ### :one:管理员登录
 
@@ -83,7 +83,7 @@
 
 
 
-## 复杂功能
+## :bar_chart:复杂功能
 
 
 
@@ -218,7 +218,7 @@ document.getElementById("firstCB").onclick = function () {
 
 ![title](https://raw.githubusercontent.com/zero6996/GitNote-images/master/GitNote/2019/06/23/%E5%A4%8D%E6%9D%82%E6%9D%A1%E4%BB%B6%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2-1561276734854.bmp)
 
-### :clock12:更新日志
+### :calendar:更新日志
 
 #### 6月26号
 
